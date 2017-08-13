@@ -2,9 +2,10 @@ This is a Docker image of [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/
 and is intended to be used at the front-end of a cluster of
 [itzg/minecraft-server](https://hub.docker.com/r/itzg/minecraft-server/) containers.
 
-[![Docker Automated buil](https://img.shields.io/docker/automated/itzg/bungeecord.svg?style=plastic)](https://hub.docker.com/r/itzg/bungeecord/)
+[![Docker Automated buil](https://img.shields.io/docker/automated/thenetyeti/docker-bungeecord.svg?style=plastic)](https://hub.docker.com/r/thenetyeti/docker-bungeecord/)
 [![Docker Build Statu](https://img.shields.io/docker/build/thenetyeti/docker-bungeecord.svg?style=plastic)](https://hub.docker.com/r/thenetyeti/docker-bungeecord/)
-
+[![Docker Pulls](https://img.shields.io/docker/pulls/thenetyeti/docker-bungeecord.svg)](https://hub.docker.com/r/thenetyeti/docker-bungeecord/)
+[![Docker Stars](https://img.shields.io/docker/stars/thenetyeti/docker-bungeecord.svg?maxAge=2592000)](https://hub.docker.com/r/thenetyeti/docker-bungeecord/)
 
 ## Environment Settings
 
